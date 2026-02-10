@@ -25,28 +25,28 @@ This project demonstrates an end-to-end Generative AI pipeline — from raw audi
 ### 1️⃣ User Interface
 Clean and intuitive interface to initialize models and upload meeting audio.
 
-![Application UI](screenshots/MOM1.png)
+![Application UI](Screenshots/MOM1.png)
 
 ---
 
 ### 2️⃣ Model Initialization & Audio Processing
 After initializing models, the system processes uploaded audio and transcribes it using Whisper.
 
-![Processing Audio](screenshots/MOM2.png)
+![Processing Audio](Screenshots/MOM2.png)
 
 ---
 
 ### 3️⃣ AI-Generated Meeting Minutes
 Structured meeting minutes are generated automatically, including summary, action items, decisions, and topics.
 
-![Generated Output](screenshots/MOM3.png)
+![Generated Output](Screenshots/MOM3.png)
 
 ---
 
 ### 4️⃣ Full Transcript & Downloadable Reports
 Complete transcript and downloadable outputs in JSON, PDF, and Word formats.
 
-![Downloads and Transcript](screenshots/MOM4.png)
+![Downloads and Transcript](Screenshots/MOM4.png)
 
 ---
 
