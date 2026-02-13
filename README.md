@@ -65,7 +65,7 @@ Complete transcript and downloadable outputs in JSON, PDF, and Word formats.
 - Microsoft Phi-3.5-mini
 - PyTorch
 - FPDF
-- Jupyter Notebook
+
 
 ---
 
@@ -98,10 +98,9 @@ MOM_Generator
 
 ---
 
-## 👤 Author
-Shri
 
----
+
+
 
  This project showcases applied Generative AI skills, including speech processing, prompt engineering, LLM inference, and document automation.
 
